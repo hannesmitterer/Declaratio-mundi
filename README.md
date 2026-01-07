@@ -1,0 +1,2 @@
+# Declaratio-mundi
+Euystacio framework 
